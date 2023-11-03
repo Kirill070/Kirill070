@@ -1,5 +1,5 @@
-Hi 👋 My name is Kirill Chernyy
-===============================
+Hi 👋 My name is Kirill
+=======================
 
 20 years as an manager and suddenly decided to become a backend developer ))))
 
