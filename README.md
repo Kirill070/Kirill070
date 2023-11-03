@@ -2,6 +2,7 @@ Hi 👋 My name is Kirill
 =======================
 
 20 years as an manager and suddenly decided to become a backend developer (and I love it) ))))
+By the way, is there an Intern/Trainee position for me? I'm ready!
 
 * 🌍  I'm based in Rostov-on-Don
 * ✉️  You can contact me at [kirill070@gmail.com](mailto:kirill070@gmail.com)
